@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+FLAnimatedImage in Pods, no dependencies
+Pods-SnoozeIsland in Pods, depends on:
+FLAnimatedImage in Pods (explicit)

@@ -1,0 +1,49 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98cdc5f94e0652582d12f855887ea29376"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981dff797a90dc63575637036bf63bb5cb"
+    }
+  ],
+  "containerPath" : "/Users/jahyunyun/Desktop/창업동아리/SnoozeIsland/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/jahyunyun/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jahyunyun/Library/Developer/Xcode/DerivedData/Pods-ffacuoqigtdamubulhiqvkrsxfcs/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jahyunyun/Library/Developer/Xcode/DerivedData/Pods-ffacuoqigtdamubulhiqvkrsxfcs/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
